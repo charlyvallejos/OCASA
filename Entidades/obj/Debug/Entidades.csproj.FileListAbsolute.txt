@@ -1,0 +1,5 @@
+c:\Users\char\documents\visual studio 2012\Projects\Ocasa\Entidades\bin\Debug\Entidades.dll
+c:\Users\char\documents\visual studio 2012\Projects\Ocasa\Entidades\bin\Debug\Entidades.pdb
+c:\Users\char\documents\visual studio 2012\Projects\Ocasa\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+c:\Users\char\documents\visual studio 2012\Projects\Ocasa\Entidades\obj\Debug\Entidades.dll
+c:\Users\char\documents\visual studio 2012\Projects\Ocasa\Entidades\obj\Debug\Entidades.pdb
