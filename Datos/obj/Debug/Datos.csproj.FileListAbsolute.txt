@@ -1,0 +1,7 @@
+c:\Users\char\documents\visual studio 2012\Projects\Ocasa\Datos\bin\Debug\Datos.dll
+c:\Users\char\documents\visual studio 2012\Projects\Ocasa\Datos\bin\Debug\Datos.pdb
+c:\Users\char\documents\visual studio 2012\Projects\Ocasa\Datos\bin\Debug\Entidades.dll
+c:\Users\char\documents\visual studio 2012\Projects\Ocasa\Datos\bin\Debug\Entidades.pdb
+c:\Users\char\documents\visual studio 2012\Projects\Ocasa\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+c:\Users\char\documents\visual studio 2012\Projects\Ocasa\Datos\obj\Debug\Datos.dll
+c:\Users\char\documents\visual studio 2012\Projects\Ocasa\Datos\obj\Debug\Datos.pdb
